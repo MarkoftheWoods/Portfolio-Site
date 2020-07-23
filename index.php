@@ -15,6 +15,7 @@
 <head>
   <meta charset="utf-8" />
   <title><?= $pageTitle ?></title>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 
