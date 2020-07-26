@@ -35,7 +35,12 @@
 
     <section id="main">
         <div>
-            <p>CONTACT</p>
+            <h2>CONTACT</h2>
+            <ul>
+                <li>GitHub: https://github.com/MarkoftheWoods</li>
+                <li>LinkedIn: https://www.linkedin.com/in/mark-b-woods/</li>
+                <li>Email: markbwoods@gmail.com</li>
+            </ul>
         </div>
     </section>
 
